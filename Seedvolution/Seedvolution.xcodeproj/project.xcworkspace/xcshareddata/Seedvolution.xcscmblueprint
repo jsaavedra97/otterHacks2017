@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "177C80A8281F6E988A4EDD1CE61CB305B3AFD15B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D50CC82F7F6DC93B5131C54137F4A31752BD0C47" : 9223372036854775807,
+    "177C80A8281F6E988A4EDD1CE61CB305B3AFD15B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C288ADCF-049F-408D-80BD-1D87775A8BCE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D50CC82F7F6DC93B5131C54137F4A31752BD0C47" : "..\/Downloads\/Asteroids",
+    "177C80A8281F6E988A4EDD1CE61CB305B3AFD15B" : "otterHacks2017\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Seedvolution",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Seedvolution\/Seedvolution.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jsaavedra97\/otterHacks2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "177C80A8281F6E988A4EDD1CE61CB305B3AFD15B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zyisrad\/Asteroids-Clone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D50CC82F7F6DC93B5131C54137F4A31752BD0C47"
+    }
+  ]
+}
